@@ -114,6 +114,3 @@ mars-rover/
 
 ---
 
-## Author
-
-Developed by **[Your Name]** as part of the Campus Placements 2026 Coding Exercises.
